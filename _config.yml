@@ -8,7 +8,7 @@ relative_permalinks: true
 title:               MSS Simulator
 tagline:             'Multi-Camera System Simulator (MSS)'
 description:         'Multi-Camera System Simulator (MSS).'
-url:                 http://lanyon.getpoole.com
+url:                 http://mariogj.github.io
 baseurl:             ''
 paginate:            5
 
