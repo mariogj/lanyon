@@ -3,19 +3,19 @@ layout: post
 title: Multi-Camera System Simulator
 ---
 
-Multi-Camera System Simulator (MSS) is a software tool based in the cross-platform [Unity](https://unity3d.com/) game engine where you can placed multiple cameras in realistic 3D enviroiments 
-is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+Multi-Camera System Simulator (MSS) is a free simulation software tool based in the cross-platform [Unity](https://unity3d.com/) game engine where can be placed multiple virtual cameras in realistic 3D environments.
 
-### Built on Poole
+### Features
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
+MSS includes a multi-camera system able to simulate the management of several distributed virtual cameras in real time and allows to design and to load realistic 3D environments. Main features of MSS are:
 
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
+* Multiple cameras freely located in the scenario.
+* 
 * Related posts (time-based, because Jekyll) below each post
 * Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
+* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
+* Easily scalable text and component sizing with `rem` units in the CSS
+
 
 ### Lanyon features
 
