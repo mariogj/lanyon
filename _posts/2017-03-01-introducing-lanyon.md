@@ -17,6 +17,9 @@ MSS includes a multi-camera system able to simulate the management of several di
 * Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
 * Easily scalable text and component sizing with `rem` units in the CSS
 
+### Demo
+
+video here
 
 ### Download
 
