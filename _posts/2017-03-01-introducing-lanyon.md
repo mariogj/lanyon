@@ -28,12 +28,8 @@ In addition to the features of Poole, Lanyon adds the following:
 
 [Head to the readme](https://github.com/poole/lanyon#readme) to learn more.
 
-### Browser support
-
-Lanyon is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
 
 ### Download
 
-Lanyon is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/lanyon">GitHub repository</a> for downloads, bug reports, and features requests.
+MSS is hosted in Bitbucket. Head our <a href="https://mss-developer-vpu@bitbucket.org/jcsma/mss-dev.git">Bitbucket repository</a> for download, bugs fixed and new features.
 
-Thanks!
