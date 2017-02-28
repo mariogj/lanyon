@@ -14,8 +14,6 @@ MSS includes a multi-camera system able to simulate the management of several di
 * Generation of frames (fps) synchronized with a maximun of 30 fps for each camera.
 * Client-Server architecture to support several clients connected.
 * Individual streams.
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Easily scalable text and component sizing with `rem` units in the CSS
 
 ### Demo
 
