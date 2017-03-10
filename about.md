@@ -4,7 +4,7 @@ title: Contact
 ---
 
 
-MSS is a project created by [VPULab](http://www-vpu.ii.uam.es/) Computer Vision group and developed by [Mario González](mailto:mario.gonzalez.jim@gmail.com).
+MSS is a project created by [VPULab](http://www-vpu.ii.uam.es/) Computer Vision group and developed by [Mario González](https://www.linkedin.com/in/mario-gonz%C3%A1lez-197b27b9/).
 
 * If you want to report a bug, please use our [Bitbucket](https://bitbucket.org/jcsma/mss-dev/issues) repository.
 * If you have technical questions, please read our [documentation](https://bitbucket.org/jcsma/mss-dev/issues) first.
