@@ -12,7 +12,7 @@ MSS source code is hosted in Bitbucket. Head our <a href="https://mss-developer-
 <p class="message">
   Description, architecture
 </p>
-* [Creating cameras](https://bitbucket.org/jcsma/mss-dev/issues).
+* [Creating cameras and receiving data](https://bitbucket.org/jcsma/mss-dev/issues).
 <p class="message">
   Description
 </p>
