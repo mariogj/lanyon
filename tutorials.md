@@ -9,5 +9,14 @@ title: Tutorials
 MSS source code is hosted in Bitbucket. Head our <a href="https://mss-developer-vpu@bitbucket.org/jcsma/mss-dev.git">Bitbucket repository</a> for download, bugs fixed and new features.
 
 * [Getting Started](https://bitbucket.org/jcsma/mss-dev/issues).
-* If you have technical questions, please read our [documentation](https://bitbucket.org/jcsma/mss-dev/issues) first.
-* If you have others questions and inquiries, you can contact us by [vpu@uam.es](mailto:vpu@uam.es) and [mario.gonzalez.jim@gmail.com](mailto:mario.gonzalez.jim@gmail.com).
+<p class="message">
+  Description, architecture
+</p>
+* [Creating cameras](https://bitbucket.org/jcsma/mss-dev/issues) first.
+<p class="message">
+  Description
+</p>
+* [Creating new scenarios](https://bitbucket.org/jcsma/mss-dev/issues) first.
+<p class="message">
+  Configure the Multi Camera System Simulator in a Unity Project
+</p>
