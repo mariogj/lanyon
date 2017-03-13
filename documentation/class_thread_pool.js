@@ -5,5 +5,7 @@ var class_thread_pool =
     [ "getStatusPool", "class_thread_pool.html#af16cd88df711f982c18763601528590d", null ],
     [ "readIncomingData", "class_thread_pool.html#a814090070a82ee6858d137e4cdcb7559", null ],
     [ "setPoolActive", "class_thread_pool.html#a87bb8233a5bceb94b7954f2be61dbb75", null ],
-    [ "setPoolInactive", "class_thread_pool.html#a81079566d403a9a4d208afd1a82f38dd", null ]
+    [ "setPoolInactive", "class_thread_pool.html#a81079566d403a9a4d208afd1a82f38dd", null ],
+    [ "poolReady", "class_thread_pool.html#aedd0cfc0eb56f483574476d61c7cb9a7", null ],
+    [ "queueData", "class_thread_pool.html#afca44c732cf8a2cd0ba56e6c3872940b", null ]
 ];

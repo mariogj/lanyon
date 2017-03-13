@@ -1,6 +1,6 @@
 var NAVTREE =
 [
-  [ "Multi Camera System Simulator", "index.html", [
+  [ "Multi Camera System Simulator  1.14", "index.html", [
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
