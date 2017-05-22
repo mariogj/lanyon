@@ -5,6 +5,8 @@ title: Getting Started
 
 
 
-## Source Code
+## What is Multi Camera Simulator?
 
-MSS source code is hosted in Bitbucket. Head our <a href="https://mss-developer-vpu@bitbucket.org/jcsma/mss-dev.git">Bitbucket repository</a> for download, bugs fixed and new features.
+Multi Camera Simulator (MSS) is simulation software  tool helping Computer Vision researchers to test and to design proof-of-concepts Vision algorithms. This tool can be an alternative to traditional datasets (video, PTZ cameras) specially in scenarios where we can't easily replicate in the real world. 
+
+Let's see an example. 
