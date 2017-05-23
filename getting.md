@@ -12,11 +12,12 @@ Multi Camera Simulator (MSS) is a simulation software tool based on Unity helpin
 What can you do with MSS?
 
 * Simulate or load any 3D scenario including animated models (pedestrians, cars...)
-* Multiple cameras syncronizhed with independient streams
-* Customizable cameras in real-time (fps, location, resolution, FOV...)
-* 3D models with Artificial Intelligence or custom events
+* Generate independient streams from multiple cameras syncronizhed
+* Customize cameras in real-time (fps, location, resolution, FOV...)
+* Add Artificial Intelligence to 3D models or create custom events
+* Repeat an interest situation as many times as you need
 
 
 ## How it works
 
-Do you have experience with OpenCV? Then, you will understand our application quickly. Let´s see an example.
+Do you have experience with OpenCV? Then, you will understand our application quickly. Let´s see an example. We are working on a people detection algorithm. 
