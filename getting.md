@@ -3,7 +3,7 @@ layout: page
 title: Getting Started
 ---
 
-
+![_config.yml]({{ site.baseurl }}/images/videowall-home3.jpg)
 
 ## What is Multi Camera Simulator?
 
