@@ -3,7 +3,6 @@ layout: page
 title: Getting Started
 ---
 
-![_config.yml]({{ site.baseurl }}/images/videowall-home3.jpg)
 
 ## What is Multi Camera Simulator?
 
@@ -26,6 +25,7 @@ Do you have experience with OpenCV? Then, you will understand our application qu
 
 MSS has a Client-Server architecture. All comunications between your application and the simulator are done via a TCP connection. Thanks to this desing, there are no requirements of platform or programming language. It also allows to run it in a distributed architecture, making possible to use it by several users at the same time. 
 
+![_config.yml]({{ site.baseurl }}/images/mss1.png)
 ## What technology is used
 
 * MSS is an extension of Unity, a popular game engine with compatibility with modern API graphics (DirectX 12, Vulkan) and support for Virtual Reality (VR) devices.
