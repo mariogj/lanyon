@@ -28,7 +28,7 @@ MSS has a Client-Server architecture. All comunications between your application
 
 ## What technology is used
 
-* MSS is an extension of Unity, a popular game engine with compatibility with modern API graphics (DirectX 121,Vulkan2) and support for Virtual Reality (VR) devices.
+* MSS is an extension of Unity, a popular game engine with compatibility with modern API graphics (DirectX 12, Vulkan) and support for Virtual Reality (VR) devices.
 * Developed in C# and using the .Net framework
 * EmguCV, a .Net wrapper to the OpenCV library used for image processing.
 * The open source Libjpeg-turbo image codec for the best image encoding performance possible.
