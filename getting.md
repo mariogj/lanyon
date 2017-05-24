@@ -33,3 +33,7 @@ MSS has a Client-Server architecture. All comunications between your application
 * EmguCV, a .Net wrapper to the OpenCV library used for image processing.
 * The open source Libjpeg-turbo image codec for the best image encoding performance possible.
 
+## Quick start guide
+
+Interested? Check our quick start guide.
+
