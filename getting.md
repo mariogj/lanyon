@@ -23,7 +23,8 @@ Do you have experience with OpenCV? Then, you will understand our application qu
 
 ## Schema
 
-MSS has a Client-Server architecture. All comunications between your application and the simulator are done via a TCP connection. Thanks to this desing, there are no requirements of platform or programming language. It also allows to run it in a distributed architecture, making possible to use it by several users at the same time. 
+MSS has a Client-Server architecture. All comunications between your application and the simulator are done via a TCP connection. Thanks to this desing, there are no requirements of platform or programming language and it allows to run it in a distributed architecture, making possible to use it by several users at the same time. 
+We also provide a high-level API Client Library written in C++ so you can easy and quickly adapt your code without understanding the comunnication protocol.
 
 ![_config.yml]({{ site.baseurl }}/images/mss1.PNG)
 ## What technology is used
