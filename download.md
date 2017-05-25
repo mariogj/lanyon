@@ -5,8 +5,13 @@ title: Download
 
 
 
-## Source Code
+## Requirements
 
-MSS source code is hosted in Bitbucket. Head our <a href="https://mss-developer-vpu@bitbucket.org/jcsma/mss-dev.git">Bitbucket repository</a> for download, bugs fixed and new features.
+* Windows 7/8/10 64 bits
+* CPU (tested): Intel I5 or I7 (recommended)
+* RAM: 1 GB system memory available
+* GRAPHIC CARD (tested): AMD HD7770 or higher
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe00xsyzi0h8aFo6VUwNfn0P-bz_RENIDEYmgIt4-dIvpYHjQ/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+ <a href="https://docs.google.com/forms/d/e/1FAIpQLSe00xsyzi0h8aFo6VUwNfn0P-bz_RENIDEYmgIt4-dIvpYHjQ/viewform?usp=sf_link#responses">Click here for download</a> 
+
+
