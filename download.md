@@ -9,7 +9,7 @@ By the moment, we do not provide the source code -althougt you can request it em
 Scenario 1
 
 Scenario 2 (extended)
-
+![_config.yml]({{ site.baseurl }}/images/mss2.PNG)
 
 ## Requirements
 
