@@ -19,8 +19,4 @@ MSS includes a multi-camera system able to simulate the management of several di
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rU84UdOhzM0" frameborder="0" allowfullscreen></iframe>
 
-### Download
 
-MSS source code is hosted in Bitbucket. Head our <a href="https://mss-developer-vpu@bitbucket.org/jcsma/mss-dev.git">Bitbucket repository</a> for download, bugs fixed and new features.
-
-We also provide compiled versions ready to use with no previous knowledge necessary. See more information in [Download](/download/) section.
