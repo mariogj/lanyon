@@ -6,7 +6,7 @@ title: Download
 
 By the moment, we do not provide the source code -althougt you can request it emailing us- so we have generated a windows binary to demostrate the capabilities. This application is totally functional and includes two examples scenarios that we have designed. For technical reasons, it is not possible to load scenarios at runtime. If you want to load your own scenario, contact us.
 
-Scenario screenshots
+Preview
 ![_config.yml]({{ site.baseurl }}/images/mss2.PNG)
 
 
