@@ -10,6 +10,9 @@ Scenario screenshots
 ![_config.yml]({{ site.baseurl }}/images/mss2.PNG)
 
 
+## API client library included
+We develop this library so that you only need to write a few lines in your code to start using MSS. Further, we also provide some Visual Studio example projects. 
+
 ## Requirements
 
 * Windows 7/8/10 64 bits
