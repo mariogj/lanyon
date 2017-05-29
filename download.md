@@ -11,7 +11,7 @@ Scenario screenshots
 
 
 ## API client library included
-We develop this library so that you only need to write a few lines in your code to start using MSS. Further, we also provide some Visual Studio example projects. 
+We develop this library written in C++ so that you only need to write a few lines in your code to start using MSS. Further, we also provide some Visual Studio example projects. 
 
 ## Requirements
 
