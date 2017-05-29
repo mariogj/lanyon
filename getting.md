@@ -19,8 +19,7 @@ What can you do with MSS?
 
 ## How it works
 
-Do you have experience with OpenCV? Then, you will understand our application quickly. Let´s see an example. We are working on a people detection algorithm. 
-MSS works as a plugin for Unity. 
+......
 
 
 ## Schema
