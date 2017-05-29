@@ -20,6 +20,6 @@ We develop this library written in C++ so that you only need to write a few line
 * RAM: 1 GB system memory available
 * GRAPHIC CARD (tested): AMD HD7770 or higher
 
- <a href="https://docs.google.com/forms/d/e/1FAIpQLSe00xsyzi0h8aFo6VUwNfn0P-bz_RENIDEYmgIt4-dIvpYHjQ/viewform?usp=sf_link#responses" target="_blank">Click here for download</a> 
+ <a href="https://docs.google.com/forms/d/e/1FAIpQLSe00xsyzi0h8aFo6VUwNfn0P-bz_RENIDEYmgIt4-dIvpYHjQ/viewform?usp=sf_link#responses" target="_blank"><strong>Click here for download</strong></a> 
 
 
