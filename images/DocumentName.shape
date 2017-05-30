@@ -1,0 +1,100 @@
+[
+  {
+    "type": "shape_designer.figure.ExtPort",
+    "id": "189e7d1d-ede8-cbd7-e7c2-d3ca081f6a2d",
+    "x": 260,
+    "y": 139,
+    "width": 10,
+    "height": 10,
+    "alpha": 1,
+    "angle": 0,
+    "userData": {
+      "baseClass": "draw2d.SetFigure",
+      "code": "/**\n * by 'Draw2D Shape Designer'\n *\n * Custom JS code to tweak the standard behaviour of the generated\n * shape. add your custome code and event handler here.\n *\n *\n */\ntestShape = testShape.extend({\n\n    init: function(attr, setter, getter){\n         this._super(attr, setter, getter);\n\n         // your special code here\n    },\n\n    /**\n     *  Called by the simulator for every calculation\n     *  loop\n     *  @required\n     **/\n    calculate:function()\n    {\n    },\n\n\n    /**\n     *  Called if the simulation mode is starting\n     *  @required\n     **/\n    onStart:function()\n    {\n    },\n\n    /**\n     *  Called if the simulation mode is stopping\n     *  @required\n     **/\n    onStop:function()\n    {\n    }\n});",
+      "name": "Port",
+      "type": "Output",
+      "direction": 1,
+      "fanout": 20,
+      "markdown": "# Header \n## Subheader \nbe nice and write a help file for your new \ncreated ***DigitalTrainingStudion*** shape. \n\n  - point 1\n  - point 2\n  - point 3"
+    },
+    "cssClass": "shape_designer_figure_ExtPort",
+    "ports": [],
+    "bgColor": "#37B1DE",
+    "color": "#1B1B1B",
+    "stroke": 1,
+    "dasharray": null,
+    "filters": [
+      {
+        "name": "shape_designer.filter.PositionFilter"
+      },
+      {
+        "name": "shape_designer.filter.FanoutFilter"
+      },
+      {
+        "name": "shape_designer.filter.PortDirectionFilter"
+      },
+      {
+        "name": "shape_designer.filter.PortTypeFilter"
+      }
+    ]
+  },
+  {
+    "type": "shape_designer.figure.PolyRect",
+    "id": "9445b770-2547-3a48-aac4-437e237e8616",
+    "x": 167,
+    "y": 101,
+    "width": 92,
+    "height": 86,
+    "alpha": 1,
+    "angle": 0,
+    "userData": {
+      "name": "Rectangle"
+    },
+    "cssClass": "shape_designer_figure_PolyRect",
+    "ports": [],
+    "bgColor": "#FF3B3B",
+    "color": "#000000",
+    "stroke": 1,
+    "radius": 15,
+    "dasharray": null,
+    "vertices": [
+      {
+        "x": 259,
+        "y": 187
+      },
+      {
+        "x": 167,
+        "y": 187
+      },
+      {
+        "x": 167,
+        "y": 101
+      },
+      {
+        "x": 259,
+        "y": 101
+      }
+    ],
+    "blur": 1,
+    "filters": [
+      {
+        "name": "shape_designer.filter.PositionFilter"
+      },
+      {
+        "name": "shape_designer.filter.SizeFilter"
+      },
+      {
+        "name": "shape_designer.filter.StrokeFilter"
+      },
+      {
+        "name": "shape_designer.filter.FillColorFilter"
+      },
+      {
+        "name": "shape_designer.filter.RadiusFilter"
+      },
+      {
+        "name": "shape_designer.filter.BlurFilter"
+      }
+    ]
+  }
+]
